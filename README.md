@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### T615-J Hazmat Drone
+- 📫 If you need something, ![open an issue](https://github.com/HazmatDrone/HazmatDrone/issues).
+- 📋 Expert at complaining. Will fill your issue tracker with hopefully meaningful things. Sometimes writes code too.
+- 🎓 Studying mechatronic engineering, but has a passion for game design and project management.
 <!--
 **HazmatDrone/HazmatDrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
