@@ -4,7 +4,7 @@
 - 🐧 Passionate [Manjaro](https://manjaro.org/) user.
 - ☕ Totally and utterly hooked on good coffee.
 - 🎓 Studying mechatronic engineering, but has a passion for game design and project management.
-- 📓 [See current taskslist here](https://github.com/users/HazmatDrone/projects/1).
+- 📓 [See current taskslist here](https://github.com/users/HazmatDrone/projects/1). [See current projects here](https://hazmatrone.github.io).
 
 ### Terrible PC specs
 ```
