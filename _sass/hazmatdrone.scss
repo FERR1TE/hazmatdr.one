@@ -1,0 +1,264 @@
+// Imports
+@import 'fonts';
+@import 'colours';
+@import "rouge-github";
+
+
+// Site colours
+$bg: $blue2;
+$bgshadow: $blue1;
+
+$fg: $dark1;
+$fgshadow: $light2;
+
+$darktext: $dark1;
+$lighttext: $light3;
+
+$maintext: $lighttext;
+
+$mainborder: $accent1;
+
+
+
+
+// Body and main elements
+body {
+	background: $bg;
+	min-width: 100px;
+	max-width: 1200px;
+	margin: auto; // Centers the page
+	padding: 1rem; // Stops the elements from touching the edge of the screen by 1em
+	color: $maintext;
+	font-family: 'Quantico', sans-serif;
+}
+
+header, main, footer {
+	padding: 2rem;
+}
+
+
+
+
+
+//All non-transparent items that go directly onto the background
+main, .bubble-outer {
+	box-shadow: 5px 7px $bgshadow;
+	background: $fg;
+	border: 2px solid $mainborder;
+}
+
+// Header and header content
+header {
+	justify-content: center;
+	text-align: center;
+
+}
+
+h1 {
+	// text-shadow: 3px 4px $bgshadow; // Unused because it makes the barcode ugly
+	font-size: 90px;
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+
+
+
+
+
+// Main and main content
+
+main {
+	display: flex;
+	flex-direction: column;
+	border-radius: 10px;
+	border-top: 8px solid $mainborder;
+	border-bottom: 8px solid $mainborder;
+	border-left: 1px solid $mainborder;
+	border-right: 1px solid $mainborder;
+
+	.refsheet {
+		width: 100%;
+		height: auto;
+		object-fit: scale-down;
+	}
+
+	ul {
+		padding-left: 1.5em;
+	}
+	li {
+		margin-bottom: 0.2em;
+	}
+	::marker {
+		color: $maintext;
+	}
+	h2, b, strong {
+		color: $accent1;
+	}
+
+	i, em {
+		color: $fgshadow;
+	}
+
+	u {
+		color:$accent3;
+	}
+}
+
+.lighttext {
+	color: $lighttext;
+}
+
+.darktext {
+	color: $darktext;
+}
+
+
+
+//code {
+//	background-color: $fgshadow;
+//	border-radius: 0.5em;
+//	padding: 0.25em;
+//}
+
+.barcode {
+	font-family: 'Libre Barcode 39 Text', sans-serif;
+}
+
+.colorbox {
+    display: inline-block;
+	border: 2px solid black;
+    border-radius: 10px;
+	padding: 0.05em 0.4em;
+}
+
+a:link {
+  color: $accent2;
+}
+
+a:visited {
+  color: $accent2;
+}
+
+a:hover {
+  color: $accent1;
+}
+
+a:active {
+  color: $accent2;
+}
+
+// ID Selector stuff.
+.hidden {
+	display: none;
+
+}
+.hidden:target {
+	display: unset;
+}
+
+
+
+
+
+// Footer and footer content
+footer {
+	justify-content: center;
+}
+
+.bubble-outer {
+	align-items: center;
+	border-radius: 0.5em;
+	display: flex;
+	font-size: 5em;
+	height: 1em;
+	justify-content: center;
+	width: 1em;
+	margin: 0.2em;
+
+	.bubble-inner {
+		font-size: 0.75em;
+		height: 1em;
+		mask-repeat: no-repeat !important;
+		width: 1em;
+		fill: $maintext;
+	}
+}
+
+
+
+
+
+// Things that change based on whether the site is horizontal or vertiacal
+
+.horz {
+	flex-wrap: wrap;
+}
+.vert {
+	flex-direction: column;
+}
+
+.horz, .vert, .horz-d-vert-m {
+	display: flex;
+}
+
+// Like a hr but it can become vertical when necessary
+.flex-rule {
+	border-width: 0 1px 0 0;
+	border-color: $fgshadow;
+	border-style: solid;
+	margin: 2em 0;
+}
+
+// Hide certain elements on mobile and show them on desktop
+.desktop-only {
+	display: unset;
+}
+.mobile-only {
+	display: none;
+}
+
+.raw-only {
+	display:none;
+}
+// For thinner screens e.g. mobile
+@media only screen and (max-width: 800px) {
+
+	// Makes content flex vertically instead of horizontally
+	.horz-d-vert-m {
+		flex-direction: column;
+	}
+
+	// Turns flex-rules from vertical dividers into horizontal dividers
+	.flex-rule {
+		border-width: 0 0 1px 0;
+		margin: 0 2em;
+	}
+
+	// Saves precious horizontal space by reducing padding for the main element
+	main{
+		padding: 1rem;
+
+		// Saves precious horizontal space by making the bullet points indent less
+		ul {
+			padding-left: 1em;
+		}
+		h2 {
+			text-align: center;
+		}
+	}
+
+	// Shrinks the site title so it doesn't wrap on thin screens
+	h1 {
+		font-size: 50px;
+	}
+
+	// Hide certain elements on desktop and show them on mobile
+	.desktop-only {
+		display: none;
+	}
+	.mobile-only {
+		display: unset;
+	}
+
+}

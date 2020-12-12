@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/hazmatdrone
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hazmatdr.one
+  * I am hazmatdrone (https://keybase.io/hazmatdrone) on keybase.
+  * I have a public key with fingerprint E2C5 C4A5 4B8A F750 B625  772B BB2A A78D 85CB 742D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e529c56a5a8329cd8bfc4622438a4d2a18ff360e4e83c2fdcee2772075441ba90a",
+      "fingerprint": "e2c5c4a54b8af750b625772bbb2aa78d85cb742d",
+      "host": "keybase.io",
+      "key_id": "bb2aa78d85cb742d",
+      "kid": "0101e529c56a5a8329cd8bfc4622438a4d2a18ff360e4e83c2fdcee2772075441ba90a",
+      "uid": "f95edaec1a096b213851618da3f92f19",
+      "username": "hazmatdrone"
+    },
+    "service": {
+      "hostname": "hazmatdr.one",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1607553078,
+  "expire_in": 157680000,
+  "prev": "cf1bc67d6aeb60cbaf3fa5009d0a93ccc6c09ce790538b0bf48e857440f35a87",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIiAnicrZJZSFRRHMZH28go0iBoM7lJoE127nLuMhUElURRRtgiatPZrl20udOd
+62guE7S4PBm+hBWa2EIQUVJESplhZWpFG1EP7dlLRJEymT50rtRL9Nh5Odvv+873
+/3N6pk/wJSWY39LKcvJqTiX0dx8r9QUfbVYrBWzTfUKgUihm4xMroSziBostKgQE
+IAKRQckgUEUQ6TJfUR2bRFElSZF1pFAJibppyipgCtNlIpmUMCZpmgQ0qCgiRgZA
+gl8wrVARc8KOFXK5LZMIJAqCCtaRqUGAVQlyCcZYQkjTqQ4J1hSJcuFuO+IpeDiM
+IizLsvkZ3wTH4/2D/8+5S8ftTAMyihgRETBULImyDkVV1CmSTUMyRcMDI8wJoT2M
+07tRxR7kUscOMaHaL/CLqEWY11uvmL+gLI/yC2HHdm1il3g3rhuOBDyluy/soWUM
+B3+bBLEVoryVXBFlTsSyQ0JA5CRxLc9VVHl6KANN9wusPGw5LGh5BNRUHfDhvcOi
+3JKYIiaqRlXEsAoIRqZsIgiAQQEyZEKISoBBmGYAKOsYYFPRmQ41RQGmzPupCV5Z
+e0O2EIA8JirilhGrKITcUofXfOtm/kRfQpJv8qRE74v5kqbO/PPxvi6f8mNkbE39
+Crv/bdmZzoND0a1590bLE+nJ5dcPpr/LnLMkOXdHxXCsTKg5PWP2KxbbSBaPPl6/
+7Mr9hkv13aj1wNy+5vbGka4XuR1H37Y1pVzPvwN7Bo99psePpEslDytNf+M2xVhw
+eCilroWsTHOjg28y8csbcWfZm5/T/Bnn6p8XZiz8NH+0+NDTqtVDMfzufU9+weuc
+C6urUm5vT/uyrje7dsfZusFFm2YtLcxuHGuONww4g7Xfv9DWpobbl8s7nMc7p16M
+99bVZK3Nrm1Jcj+0DaSmbpn8LS/e92T/moTqVYnVd7NOzOpvfyD+nNjZfn5K17Ph
+a/NK+jI2JF+N7boUzf9Y8AsLgUj/
+=USB5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hazmatdrone
+
+==================================================================
