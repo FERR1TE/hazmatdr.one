@@ -4,22 +4,22 @@
 <!--Section 1-->
 ## General Info *(WIP)*
 *T615-J Hazardous Materials Drone - Cyberpunk rubber service unit*
-	- **Nicknames:** T615-J, T6, Drone, Hazmat
-	- **Species:** Drone, dragon *(Living rubber)*
-	- **Height:** ~6ft *(180cm)*
-	- **Gender:** Male *(it)*
-	- **Orientation:** Gay
+- **Nicknames:** T615-J, T6, Drone, Hazmat
+- **Species:** Drone, dragon *(Living rubber)*
+- **Height:** ~6ft *(180cm)*
+- **Gender:** Male *(it)*
+- **Orientation:** Gay
 
-	- Contractable, affordable, disposable worker
-			- Suited for working in environments with **hazardous chemicals** or **high voltages** present
-			- It is preprogrammed with some knowledge of chemistry and engineering
+- Contractable, affordable, disposable worker
+	- Suited for working in environments with **hazardous chemicals** or **high voltages** present
+	- It is preprogrammed with some knowledge of chemistry and engineering
 
-	- Its body is made **entirely of rubber**
-	- Most gear is detachable *(As shown on refsheet)*
-	- Capable of **complex reasoning** and** weak emotions**
-		<ul>- These can be toggled on or off individually by an operator</ul>
-	- Its **mask releases various chemicals** that aid in keeping it docile and obedient, as well as conditioning behaviours into it
-	- Its collar is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
+- Its body is made **entirely of rubber**
+- Most gear is detachable *(As shown on refsheet)*
+- Capable of **complex reasoning** and **weak emotions**
+	- These can be toggled on or off individually by an operator
+- Its **mask releases various chemicals** that aid in keeping it docile and obedient, as well as conditioning behaviours into it
+- Its collar is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
 
 <!--Section 2-->
 
@@ -35,10 +35,11 @@
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #43CBE5">#43CBE5</span> Accent</span>
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #E15554">#E15554</span> Accent 2</span>
 </span>
+
 ## Artist Notes
-	- **Digitigrade**, should have a **slightly buff** physique
-	- Fairly squishy; creases up a bit at joints etc
-	- Don't miss the subtle markings on the wings
-	- It is a **living rubber creature**, not a suit or robot
-	- A PNG of its proper barcode can be found <a href="/barcode/" target="_blank">here</a> for optional use.
+- **Digitigrade**, should have a **slightly buff** physique
+- Fairly squishy; creases up a bit at joints etc
+- Don't miss the subtle markings on the wings
+- It is a **living rubber creature**, not a suit or robot
+- A PNG of its proper barcode can be found <a href="/barcode/" target="_blank">here</a> for optional use.
 <!--Section End-->
