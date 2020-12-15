@@ -13,7 +13,12 @@
 	{% include header.html %}
 
     <main>
-      {{ content }}
+      {{ content
+		  | replace: "<!--Section 1-->", "<div class="horz-d-vert-m"><div style="padding:1em; flex: 3" >"
+		  | replace: "<!--Section 2-->", "</div><div class="flex-rule"></div><div style="padding:1em; flex: 2">"
+		  | replace: "<!--Section End-->", "</div></div>"
+	  }}
+
     </main>
 
     {% include footer.html %}
