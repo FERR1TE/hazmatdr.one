@@ -51,7 +51,7 @@
 			<li>Fairly squishy; creases up a bit at joints etc</li>
 			<li>Don't miss the subtle markings on the wings</li>
 			<li>It is a <b>living rubber creature</b>, not a suit or robot</li>
-			<li>A PNG of its proper barcode can be found <a href="/assets/img/barcode.png" target="_blank">here</a> for optional use.</li>
+			<li>A PNG of its proper barcode can be found <a href="/barcode/" target="_blank">here</a> for optional use.</li>
 		</ul>
 
 	</div>
