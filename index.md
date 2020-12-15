@@ -1,7 +1,12 @@
+---
+layout: site
+---
+
 
 [![Refsheet Image](/assets/img/hazmatdrone-refsheet-1200.png)](/assets/img/hazmatdrone-refsheet-full.png)
 <div style="text-align: center">*Art by <a href="https://www.furaffinity.net/user/qundium" target="_blank">Hacony</a> - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version*</div>
-<!--Section 1-->
+
+{% capture leftbox %}
 ## General Info *(WIP)*
 *T615-J Hazardous Materials Drone - Cyberpunk rubber service unit*
 - **Nicknames:** T615-J, T6, Drone, Hazmat
@@ -21,7 +26,8 @@
 - Its **mask releases various chemicals** that aid in keeping it docile and obedient, as well as conditioning behaviours into it
 - Its collar is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
 
-<!--Section 2-->
+{% endcapture %}
+{% capture rightbox %}
 
 ## Colours
 <span style="display: flex; flex-wrap: wrap">
@@ -42,4 +48,4 @@
 - Don't miss the subtle markings on the wings
 - It is a **living rubber creature**, not a suit or robot
 - A PNG of its proper barcode can be found <a href="/barcode/" target="_blank">here</a> for optional use.
-<!--Section End-->
+{% endcapture %}
