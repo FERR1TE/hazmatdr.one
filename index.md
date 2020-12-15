@@ -49,3 +49,6 @@ layout: site
 - It is a **living rubber creature**, not a suit or robot
 - A PNG of its proper barcode can be found <a href="/barcode/" target="_blank">here</a> for optional use.
 {% endcapture %}
+
+<!-- Turns capture groups into a flex box. Must come after capture groups. -->
+{% include horz-d-vert-m.html %}

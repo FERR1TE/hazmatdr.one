@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" href="/assets/img/favicon.png">
-    {% seo %}
   </head>
 
   <body>
@@ -14,11 +13,6 @@
 
     <main>
       {{ content }}
-	  <div class="horz-d-vert-m"><div style="padding:1em; flex: 3" >
-		  {{ content.leftbox }}
-	  </div><div class="flex-rule"></div><div style="padding:1em; flex: 2">
-		  {{ content.rightbox }}
-	  </div></div>
     </main>
 
     {% include footer.html %}
