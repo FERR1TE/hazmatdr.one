@@ -172,7 +172,9 @@ a:active {
 
 // Footer and footer content
 footer {
-	justify-content: center;
+	justify-content: space-between;
+	margin: 0 auto;
+	width: 35%;
 }
 
 .bubble-outer {
@@ -183,7 +185,6 @@ footer {
 	height: 1em;
 	justify-content: center;
 	width: 1em;
-	margin: 0.2em;
 
 	.bubble-inner {
 		font-size: 0.75em;
