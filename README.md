@@ -1,5 +1,5 @@
 ### T615-J Hazmat Drone
-- 📫 If you need something done, ![open an issue](https://github.com/HazmatDrone/HazmatDrone/issues/new) or ![start a discussion](https://github.com/HazmatDrone/HazmatDrone/discussions/new). [📋 taskslist](https://github.com/users/HazmatDrone/projects/1) | [📓 projects](https://hazmatdrone.github.io)
+- 📫 If you need something done, [open an issue](https://github.com/HazmatDrone/HazmatDrone/issues/new) or [start a discussion](https://github.com/HazmatDrone/HazmatDrone/discussions/new). [📋 taskslist](https://github.com/users/HazmatDrone/projects/1) | [📓 projects](https://hazmatdrone.github.io)
 - 💬 Expert at complaining. Will fill your issue tracker with hopefully meaningful things. Sometimes writes code too.
 - 🐧 Passionate [Manjaro](https://manjaro.org/) user.
 - ☕ Totally and utterly hooked on good coffee.
