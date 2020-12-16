@@ -183,7 +183,7 @@ footer {
 
 .bubble-outer {
 	align-items: center;
-	border-radius: 0.5em;
+	border-radius: calc(0.5em + 1px);
 	display: flex;
 	font-size: 5em;
 	height: 1em;
