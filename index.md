@@ -1,5 +1,5 @@
 [![Refsheet Image](/assets/img/hazmatdrone-refsheet-1200.png)](/assets/img/hazmatdrone-refsheet-full.png)
-<div style="text-align: center">*Art by <a href="https://www.furaffinity.net/user/qundium" target="_blank">Hacony</a> - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version*</div>
+###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
 
 {% capture leftbox %}
 ## General Info *(WIP)*
