@@ -103,6 +103,14 @@ main {
 	u {
 		color:$accent3;
 	}
+	h6 {
+		// text-shadow: 3px 4px $bgshadow; // Unused because it makes the barcode ugly
+		font-size: 16px;
+		font-weight: normal;
+		font-style: italic;
+		color: $fgshadow;
+		text-align: center;
+	}
 }
 
 .lighttext {
