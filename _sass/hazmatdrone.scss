@@ -172,18 +172,23 @@ a:active {
 
 // Footer and footer content
 footer {
-	justify-content: center;
+	justify-content: space-between;
+	margin: 0 auto;
+	width: 35%;
+}
+
+.bubble-container {
+	position: relative;
 }
 
 .bubble-outer {
 	align-items: center;
-	border-radius: 0.5em;
+	border-radius: calc(0.5em + 1px);
 	display: flex;
 	font-size: 5em;
 	height: 1em;
 	justify-content: center;
 	width: 1em;
-	margin: 0.2em;
 
 	.bubble-inner {
 		font-size: 0.75em;
@@ -192,6 +197,17 @@ footer {
 		width: 1em;
 		fill: $maintext;
 	}
+}
+
+.bubble-mini {
+	bottom: -0.25em;
+	color: $maintext !important;
+	font-size: 1.25em;
+	padding: 0.1em;
+	position: absolute;
+	right: -0.5em;
+	text-decoration: none;
+	width: unset;
 }
 
 
