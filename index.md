@@ -38,7 +38,7 @@
 </span>
 
 ## Artist Notes
-- **Digitigrade**, should have a **slightly buff** physique
+- **Digitigrade**, should have a **buff** physique
 - Fairly squishy; creases up a bit at joints etc
 - Don't miss the subtle markings on the wings
 - It is a **living rubber creature**, not a suit or robot
