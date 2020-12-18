@@ -19,7 +19,7 @@
 - Capable of **complex reasoning** and **weak emotions**
 	- These can be toggled on or off individually by an operator
 - Its **mask releases various chemicals** that aid in keeping it docile and obedient, as well as conditioning behaviours into it
-- Its collar is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
+- Its [collar](/collar/) is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
 
 {% endcapture %}
 {% capture rightbox %}
@@ -42,7 +42,7 @@
 - Fairly squishy; creases up a bit at joints etc
 - Don't miss the subtle markings on the wings
 - It is a **living rubber creature**, not a suit or robot
-- A PNG of its proper barcode can be found <a href="/barcode/" target="_blank">here</a> for optional use.
+- A PNG of its proper barcode can be found [here](/barcode/) for optional use.
 
 {% endcapture %}
 
