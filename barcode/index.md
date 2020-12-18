@@ -1,3 +1,9 @@
+---
+socialmedia:
+  title: Barcode
+  image: /assets/img/barcode.png
+  type: summary_large_image
+---
 ## Barcode
 The proper, scannable barcode of T615-J.
 ![Collar](/assets/img/barcode.png)

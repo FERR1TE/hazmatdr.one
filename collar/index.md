@@ -1,3 +1,9 @@
+---
+socialmedia:
+  title: Collar
+  image: /assets/img/collar.png
+  type: summary_large_image
+---
 ![Collar](/assets/img/collar.png)
 #### Fig. 1. Drone collar.
 The collar is made of rubber, with a steel electronic buckle.  
