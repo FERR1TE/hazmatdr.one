@@ -1,7 +1,7 @@
 ---
 socialmedia:
   title: Collar
-  image: /assets/img/collar.png
+  image: /assets/img/collar-opaque.png
   type: summary_large_image
 ---
 ![Collar](/assets/img/collar.png)
