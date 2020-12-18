@@ -1,7 +1,7 @@
 ---
 socialmedia:
   title: Barcode
-  image: /assets/img/barcode.png
+  image: https://hazmatdr.one/assets/img/barcode.png
   type: summary_large_image
 ---
 ## Barcode

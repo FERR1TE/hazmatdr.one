@@ -1,7 +1,7 @@
 ---
 socialmedia:
   title: T615-J Refsheet
-  image: /assets/img/hazmatdrone-refsheet-1200.png
+  image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png
   type: summary_large_image
 ---
 
