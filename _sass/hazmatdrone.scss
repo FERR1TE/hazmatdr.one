@@ -60,9 +60,6 @@ h1 {
 	margin: 0;
 	padding: 0;
 	font-weight: normal;
-	a:link a:active a:visited  {
-	  text-decoration:none;
-	}
 }
 
 
@@ -144,20 +141,14 @@ main {
 	padding: 0.05em 0.4em;
 }
 
-a:link {
+a:link a:visited a:active {
   color: $accent2;
+  h1 {
+	  text-decoration:none;
+  }
 }
-
-a:visited {
-  color: $accent2;
-}
-
 a:hover {
   color: $accent1;
-}
-
-a:active {
-  color: $accent2;
 }
 
 // ID Selector stuff.
