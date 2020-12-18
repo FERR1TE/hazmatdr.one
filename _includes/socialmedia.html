@@ -9,10 +9,13 @@
 <meta name="twitter:image" content="{{ page.socialmedia.image }}">
 <meta name="twitter:image:src" content="{{ page.socialmedia.image }}">
 <meta name="twitter:card" content="{{ page.socialmedia.type }}">
+{% else %}
+<meta property="og:image" content="/assets/img/favicon.png" />
+<meta name="twitter:image" content="/assets/img/favicon.png">
+<meta name="twitter:image:src" content="/assets/img/favicon.png">
+<meta name="twitter:card" content="summary">
 {% endif %}
 
-{% if page.socialmedia.title %}
-<meta name="twitter:title" content="{{ page.socialmedia.title }}">
-<meta name="og:title" content="{{ page.socialmedia.title }}">
-<meta name="twitter:text:title" content="{{ page.socialmedia.title }}">
-{% endif %}
+<meta name="twitter:title" content="{{ page.socialmedia.title | default: page.title | default:site.title }}">
+<meta name="og:title" content="{{ page.socialmedia.title | default: page.title | default:site.title }}">
+<meta name="twitter:text:title" content="{{ page.socialmedia.title | default: page.title | default:site.title }}">

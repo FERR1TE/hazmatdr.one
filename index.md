@@ -1,4 +1,6 @@
 ---
+title: T615-J
+description: Hazardous Materials Drone
 socialmedia:
   title: T615-J Refsheet
   image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png

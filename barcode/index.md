@@ -1,6 +1,7 @@
 ---
+title: Barcode
+description: The proper, scannable barcode of T615-J.
 socialmedia:
-  title: Barcode
   image: https://hazmatdr.one/assets/img/barcode.png
   type: summary_large_image
 ---

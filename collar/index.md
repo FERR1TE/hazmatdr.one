@@ -1,6 +1,7 @@
 ---
+title: Collar
+description: Rubber collar for use with electromagnetic leash
 socialmedia:
-  title: Collar
   image: https://hazmatdr.one/assets/img/collar-opaque.png
   type: summary_large_image
 ---
