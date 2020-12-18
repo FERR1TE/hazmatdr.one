@@ -1,3 +1,10 @@
+---
+socialmedia:
+  title: T615-J Refsheet
+  image: /assets/img/hazmatdrone-refsheet-1200.png
+  type: summary_large_image
+---
+
 [![Refsheet Image](/assets/img/hazmatdrone-refsheet-1200.png)](/assets/img/hazmatdrone-refsheet-full.png)
 ###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
 
