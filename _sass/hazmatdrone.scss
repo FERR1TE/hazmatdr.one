@@ -143,6 +143,12 @@ main {
 
 .barcode {
 	font-family: 'Libre Barcode 39 Text', sans-serif;
+	a {
+		text-decoration: none;
+	}
+	a:hover {
+	  text-decoration: underline;
+	}
 }
 
 .colorbox {
