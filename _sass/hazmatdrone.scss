@@ -141,7 +141,19 @@ main {
 	padding: 0.05em 0.4em;
 }
 
-a:link a:visited a:active {
+a:link{
+  color: $accent2;
+  h1 {
+	  text-decoration:none;
+  }
+}
+a:visited{
+  color: $accent2;
+  h1 {
+	  text-decoration:none;
+  }
+}
+a:active {
   color: $accent2;
   h1 {
 	  text-decoration:none;
