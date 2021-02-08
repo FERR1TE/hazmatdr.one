@@ -46,7 +46,7 @@ header, main, footer {
 
 //All non-transparent items that go directly onto the background
 main, .bubble-outer {
-	box-shadow: 5px 7px $bgshadow;
+	//box-shadow: 5px 7px $bgshadow;
 	background: $holo;
 	border: 2px solid $holo_edge;
 }
@@ -100,7 +100,7 @@ main {
 	}
 
 	i, em {
-		color: $fgshadow;
+		color: $holo_edge;
 	}
 
 	u {
@@ -124,16 +124,16 @@ main {
 .darktext {
 	color: $darktext;
 	a:link{
-	  color: $darktext;
+	  color: $holo_edge;
 	}
 	a:visited{
-	  color: $darktext;
+	  color: $holo_edge;
 	}
 	a:active {
-	  color: $darktext;
+	  color: $holo_edge;
 	}
 	a:hover {
-	  color: $darktext;
+	  color: $holo_edge;
 	}
 }
 
