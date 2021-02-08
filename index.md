@@ -11,7 +11,7 @@ socialmedia:
 ###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
 
 {% capture leftbox %}
-## General Info *(WIP)*
+## General Info
 *T615-J Hazardous Materials Drone - Cyberpunk rubber service unit*
 - **Nicknames:** T615-J, T6, Drone, Hazmat
 - **Species:** Drone, dragon *(Living rubber)*
