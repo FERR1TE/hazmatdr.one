@@ -113,16 +113,16 @@ main {
 .darktext {
 	color: $darktext;
 	a:link{
-	  color: $holo_edge;
+	  color: $maintext;
 	}
 	a:visited{
-	  color: $holo_edge;
+	  color: $maintext;
 	}
 	a:active {
-	  color: $holo_edge;
+	  color: $maintext;
 	}
 	a:hover {
-	  color: $holo_edge;
+	  color: $maintext;
 	}
 }
 
