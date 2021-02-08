@@ -2,6 +2,7 @@
 @import 'fonts';
 @import 'colours';
 @import "rouge-github";
+@import "https://unpkg.com/augmented-ui@2/augmented-ui.min.css";
 
 
 // Site colours
@@ -37,7 +38,7 @@ header, main, footer {
 main, .bubble-outer {
 	//box-shadow: 5px 7px $bgshadow;
 	background: $fg;
-	border: 2px solid $mainborder;
+
 }
 
 // Header and header content
@@ -63,11 +64,6 @@ h1 {
 main {
 	display: flex;
 	flex-direction: column;
-	border-radius: 10px;
-	border-top: 8px solid $mainborder;
-	border-bottom: 8px solid $mainborder;
-	border-left: 1px solid $mainborder;
-	border-right: 1px solid $mainborder;
 
 	img {
 		width: 100%;
@@ -189,6 +185,7 @@ footer {
 }
 
 .bubble-outer {
+	border: 2px solid $mainborder;
 	align-items: center;
 	border-radius: calc(0.5em + 1px);
 	display: flex;
