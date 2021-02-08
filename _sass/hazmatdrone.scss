@@ -23,13 +23,17 @@ $mainborder: $accent1;
 
 // Body and main elements
 body {
-	background: $bg;
 	min-width: 100px;
 	max-width: 1200px;
 	margin: auto; // Centers the page
 	padding: 1rem; // Stops the elements from touching the edge of the screen by 1em
 	color: $maintext;
 	font-family: 'Quantico', sans-serif;
+	background-image: url("assets/img/site_bg.png")
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
 }
 
 header, main, footer {
@@ -43,8 +47,8 @@ header, main, footer {
 //All non-transparent items that go directly onto the background
 main, .bubble-outer {
 	box-shadow: 5px 7px $bgshadow;
-	background: $fg;
-	border: 2px solid $mainborder;
+	background: $holo;
+	border: 2px solid $holo_edge;
 }
 
 // Header and header content
@@ -71,10 +75,10 @@ main {
 	display: flex;
 	flex-direction: column;
 	border-radius: 10px;
-	border-top: 8px solid $mainborder;
-	border-bottom: 8px solid $mainborder;
-	border-left: 1px solid $mainborder;
-	border-right: 1px solid $mainborder;
+	border-top: 8px solid $holo_edge;
+	border-bottom: 8px solid $holo_edge;
+	border-left: 1px solid $holo_edge;
+	border-right: 1px solid $holo_edge;
 
 	img {
 		width: 100%;
