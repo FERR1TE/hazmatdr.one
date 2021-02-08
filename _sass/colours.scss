@@ -13,4 +13,20 @@ $accent2: #00c4ff !default; // Energy Accent
 $accent3: #E15554 !default;
 
 $holo: #23363AAA !default;
-$holo_edge: #6EBDC4AA!default;
+$holo_edge: #6EBDC4AA !default;
+
+
+// For changing entire parts of the site at once
+$bg: $blue2;
+$bgshadow: $blue1;
+
+$fg: $holo;
+$fgshadow: $light2;
+
+$darktext: $dark1;
+$lighttext: $light3;
+
+$maintext: $lighttext;
+
+$mainborder: $holo_edge;
+$muted_element: $holo_edge;
