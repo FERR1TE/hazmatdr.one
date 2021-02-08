@@ -5,18 +5,7 @@
 
 
 // Site colours
-$bg: $blue2;
-$bgshadow: $blue1;
 
-$fg: $dark1;
-$fgshadow: $light2;
-
-$darktext: $dark1;
-$lighttext: $light3;
-
-$maintext: $lighttext;
-
-$mainborder: $accent1;
 
 
 
@@ -47,8 +36,8 @@ header, main, footer {
 //All non-transparent items that go directly onto the background
 main, .bubble-outer {
 	//box-shadow: 5px 7px $bgshadow;
-	background: $holo;
-	border: 2px solid $holo_edge;
+	background: $fg;
+	border: 2px solid $mainborder;
 }
 
 // Header and header content
@@ -75,10 +64,10 @@ main {
 	display: flex;
 	flex-direction: column;
 	border-radius: 10px;
-	border-top: 8px solid $holo_edge;
-	border-bottom: 8px solid $holo_edge;
-	border-left: 1px solid $holo_edge;
-	border-right: 1px solid $holo_edge;
+	border-top: 8px solid $mainborder;
+	border-bottom: 8px solid $mainborder;
+	border-left: 1px solid $mainborder;
+	border-right: 1px solid $mainborder;
 
 	img {
 		width: 100%;
@@ -100,7 +89,7 @@ main {
 	}
 
 	i, em {
-		color: $holo_edge;
+		color: $muted_element;
 	}
 
 	u {
@@ -248,7 +237,7 @@ footer {
 // Like a hr but it can become vertical when necessary
 .flex-rule {
 	border-width: 0 1px 0 0;
-	border-color: $fgshadow;
+	border-color: $muted_element;
 	border-style: solid;
 	margin: 2em 0;
 }
