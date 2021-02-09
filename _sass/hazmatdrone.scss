@@ -16,7 +16,8 @@ body {
 	min-width: 100px;
 	max-width: 1200px;
 	margin: auto; // Centers the page
-	padding: 1rem; // Stops the elements from touching the edge of the screen by 1em
+	padding-left: 1rem;
+	padding-right: 1rem;
 	color: $maintext;
 	font-family: 'Quantico', sans-serif;
 	background-image: url("/assets/img/site_bg.png");
