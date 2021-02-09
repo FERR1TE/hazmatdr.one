@@ -46,8 +46,9 @@ header, main, .bubble-outer {
 header {
 	justify-content: center;
 	text-align: center;
-	width: auto;
-	height: auto;
+	width: max-content;
+	height: max-content;
+	margin: auto;
 }
 
 h1 {
