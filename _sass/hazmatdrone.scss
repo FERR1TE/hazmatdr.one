@@ -28,6 +28,7 @@ body {
 
 header, main, footer {
 	padding: 2rem;
+	margin: 2rem;
 }
 
 
@@ -45,6 +46,8 @@ header, main, .bubble-outer {
 header {
 	justify-content: center;
 	text-align: center;
+	width: auto;
+	height: auto;
 }
 
 h1 {
@@ -178,6 +181,7 @@ footer {
 	justify-content: space-between;
 	margin: 0 auto;
 	width: 35%;
+	padding: 0;
 }
 
 .bubble-container {
