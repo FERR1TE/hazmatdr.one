@@ -35,7 +35,7 @@ header, main, footer {
 
 
 //All non-transparent items that go directly onto the background
-main, .bubble-outer {
+header, main, .bubble-outer {
 	//box-shadow: 5px 7px $bgshadow;
 	background: $fg;
 
