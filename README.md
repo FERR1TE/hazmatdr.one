@@ -24,7 +24,6 @@
 ████████  ████████  ████████   Icons: Tela-red-dark [Plasma], Tela-red-dark [GTK2/3] 
                                Terminal: yakuake 
                                CPU: Intel i5-4690K (4) @ 3.900GHz 
-                               GPU: AMD ATI Radeon RX 470/480/570/570X/580/580X/590 
-                               GPU: Intel HD Graphics 
+                               GPU: AMD ATI Radeon RX 580
                                Memory: 8296MiB / 15899MiB 
 ```
