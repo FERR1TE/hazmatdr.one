@@ -1,7 +1,7 @@
 ---
+title: Refsheet
 description: "Twitter/FA/Telegram: @HazmatDrone"
 socialmedia:
-  title: Refsheet
   image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png
   type: summary_large_image
 ---
