@@ -1,6 +1,6 @@
 <header data-augmented-ui="tl-2-clip-x tr-2-clip-x br-2-clip-x bl-2-clip-x both" class="styleme">
   <div class="container">
-	<h1 class="darktext barcode"><a href="/">*{{ site.title | default: site.github.repository_name }}*</a></h1>
+	<h1 class="darktext barcode"><a href="/">*{{ site.barcodetitle | default: site.title |default: site.github.repository_name }}*</a></h1>
 	{% if site.show_downloads %}
 	  <section id="downloads">
 		<a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
