@@ -1,6 +1,6 @@
 ---
 title: T615-J
-description: Twitter/FA/Telegram: @HazmatDrone
+description: Twitter/FA/Telegram: HazmatDrone
 socialmedia:
   title: T615-J Hazmat Drone
   image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png
