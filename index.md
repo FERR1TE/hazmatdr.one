@@ -25,7 +25,7 @@ socialmedia:
 
 - Its body is made **entirely of rubber**
 - Most gear is detachable *(As shown on refsheet)*
-- Capable of **complex reasoning** and **weak emotions**
+- Capable of **complex reasoning** and **weak emotions** as ordered
 	- These can be toggled on or off individually by an operator
 - Its **mask releases various chemicals** that aid in keeping it docile and obedient, as well as conditioning behaviours into it
 - Its [collar](/collar/) is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
