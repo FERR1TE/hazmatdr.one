@@ -1,5 +1,5 @@
 ---
-title: T615-J
+title: hazmatdr.one
 description: Twitter/FA/Telegram: HazmatDrone
 socialmedia:
   title: T615-J Hazmat Drone
