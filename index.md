@@ -1,8 +1,7 @@
 ---
 title: Refsheet
-description: "Twitter/FA/Telegram: HazmatDrone"
+description: "Twitter/FA/Telegram: @HazmatDrone"
 socialmedia:
-  title: T615-J Hazmat Drone
   image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png
   type: summary_large_image
 ---
@@ -25,7 +24,7 @@ socialmedia:
 
 - Its body is made **entirely of rubber**
 - Most gear is detachable *(As shown on refsheet)*
-- Capable of **complex reasoning** and **weak emotions** as ordered
+- Capable of **complex reasoning** and **weak emotions**
 	- These can be toggled on or off individually by an operator
 - Its **mask releases various chemicals** that aid in keeping it docile and obedient, as well as conditioning behaviours into it
 - Its [collar](/collar/) is **permanently fused with its neck** and serves as a surface for an **electromagnetic leash** to attach
