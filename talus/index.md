@@ -17,7 +17,6 @@ socialmedia:
 
 ## General Info
 *Talus - Materialshifting Dragonborn*
-- **Nicknames:** 
 - **Species:** Dragonborn *(construct)*
 - **Height:** ~6ft *(180cm)*
 - **Gender:** Male
