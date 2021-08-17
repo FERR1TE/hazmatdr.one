@@ -1,6 +1,6 @@
 ---
 title: Tekxach Refsheet
-description: "Twitter/FA/Telegram: @HazmatDrone"
+description: "Basilisk with a petrifying gaze."
 socialmedia:
   image: https://hazmatdr.one/assets/img/tekxach-twitter-card.png
   type: summary_large_image
