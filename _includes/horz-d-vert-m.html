@@ -1,5 +1,5 @@
-<div class="horz-d-vert-m"><div class="leftbox" style="padding:1em; flex: 3" >
+<div class="horz-d-vert-m"><div class="leftbox" style="padding:1em; flex: {% if page.flexbox.leftflex %}{{ page.flexbox.leftflex }}{% else %}3{% endif %}" >
 	{{ leftbox | markdownify }}
-</div><div class="flex-rule"></div><div class="rightbox" style="padding:1em; flex: 2">
+</div><div class="flex-rule"></div><div class="rightbox" style="padding:1em; flex: {% if page.flexbox.rightflex %}{{ page.flexbox.rightflex }}{% else %}2{% endif %}">
 	{{ rightbox | markdownify }}
 </div></div>
