@@ -2,7 +2,7 @@
 title: Tekxach Refsheet
 description: "Twitter/FA/Telegram: @HazmatDrone"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/2021JulyTekxach2.png
+  image: https://hazmatdr.one/assets/img/tekxach-twitter-card.png
   type: summary_large_image
 flexbox:
   leftflex: 2
