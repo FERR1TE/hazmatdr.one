@@ -19,9 +19,9 @@ flexbox:
 
 ## General Info
 - **Name**: Tekxach [/ˈtɛʼzɑx/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91x&voice=Brian)
+- **Species**: Basilisk
 - **Gender:** Male
 - **Orientation:** Gay/grey ace
-- **Species**: Basilisk
 - **Alignment**: Chaotic neutral
 
 ## Abilities
