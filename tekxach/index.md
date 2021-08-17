@@ -16,9 +16,9 @@ socialmedia:
 
 ## General Info
 - Name: Tekxach [/ˈtɛʼzɑx/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91x&voice=Brian)
-- **Gender:** Male *(it)*
-- **Orientation:** Gay
-- Species: Basilisk ([Tskxe](https://docs.google.com/document/d/1hchZzguJgiCVr3qkfJ7hlxtSettvgMImGIAqsXyyHGo/edit#))
+- **Gender:** Male
+- **Orientation:** Gay/grey ace
+- Species: Basilisk
 - Alignment: Chaotic neutral
 
 ## Abilities
