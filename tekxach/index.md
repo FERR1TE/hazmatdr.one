@@ -4,6 +4,9 @@ description: "Twitter/FA/Telegram: @HazmatDrone"
 socialmedia:
   image: https://hazmatdr.one/assets/img/2021JulyTekxach2.png
   type: summary_large_image
+flexbox:
+  leftflex: 2
+  rightflex: 3
 ---
 
 {% capture leftbox %}
