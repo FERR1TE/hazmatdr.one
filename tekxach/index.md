@@ -28,7 +28,7 @@ flexbox:
 * **Hypnotic gaze**: Faintly glowing eyes
   * Locks the victim in more or less instantly, works to aid and work alongside petrifying gaze
 * **Petrifying gaze**: pure blue-white energy eyes
-  * Petrification is usually slow, global change to the victim's body, becoming stiffer and heavier over the course of 10-30s
+  * Petrification is usually slow, global change to the victim's body, becoming stiffer and heavier over the course of 10-30s until the victim is entirely stone
   * Naturally reverses if eye contact is broken prematurely
 
 ## Other Traits
