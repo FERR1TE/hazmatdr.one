@@ -18,16 +18,16 @@ flexbox:
 {% capture rightbox %}
 
 ## General Info
-- Name: Tekxach [/ˈtɛʼzɑx/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91x&voice=Brian)
+- **Name**: Tekxach [/ˈtɛʼzɑx/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91x&voice=Brian)
 - **Gender:** Male
 - **Orientation:** Gay/grey ace
-- Species: Basilisk
-- Alignment: Chaotic neutral
+- **Species**: Basilisk
+- **Alignment**: Chaotic neutral
 
 ## Abilities
-* Hypnotic gaze: Faintly glowing eyes
+* **Hypnotic gaze**: Faintly glowing eyes
   * Locks the victim in more or less instantly, works to aid and work alongside petrifying gaze
-* Petrifying gaze: pure blue-white energy eyes
+* **Petrifying gaze**: pure blue-white energy eyes
   * Petrification is usually slow, global change to the victim's body, becoming stiffer and heavier over the course of 30s-1min
   * Naturally reverses if eye contact is broken prematurely
 
