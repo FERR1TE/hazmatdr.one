@@ -1,6 +1,6 @@
 ---
-title: Tekxach Refsheet
-description: "Basilisk with a petrifying gaze."
+title: テザクのキャラクターシート
+description: "人を石化な眼差しのバジリスク。"
 socialmedia:
   image: https://hazmatdr.one/assets/img/tekxach-twitter-card.png
   type: summary_large_image
@@ -11,32 +11,32 @@ flexbox:
 
 {% capture leftbox %}
 
-[![Refsheet Image](/assets/img/2021JulyTekxach2.png)](/assets/img/2021JulyTekxach2.png)
-###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
+[![キャラクターシート](/assets/img/2021JulyTekxach2.png)](/assets/img/2021JulyTekxach2.png)
+###### [Hacony](https://www.furaffinity.net/user/qundium)のアート。画像をクリックすると拡大表示します。
 
 {% endcapture %}
 {% capture rightbox %}
 
-## General Info
-- **Name**: Tekxach [/ˈtɛʼzɑx/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91x&voice=Brian)
-- **Species**: Basilisk
-- **Gender:** Male
-- **Orientation:** Gay/grey ace
-- **Alignment**: Chaotic neutral
+## 概要
+- **名前**: テザク - Tekxach
+- **種**: バジリスク
+- **性別:** 雄
+- **セクシュアリティ:** ホモセクシャル - アセクシャル
+- **アライメント**: カオス・ニュートラル
 
-## Abilities
-* **Hypnotic gaze**: Faintly glowing eyes
-  * Locks the victim in more or less instantly, works to aid and work alongside petrifying gaze
-* **Petrifying gaze**: pure blue-white energy eyes
-  * Petrification is usually slow, global change to the victim's body, becoming stiffer and heavier over the course of 10-30s until the victim is entirely stone
-  * Naturally reverses if eye contact is broken prematurely
+## 能力
+* **催眠術のような眼差し**: ほのかに光る目
+  * 被害者を多かれ少なかれ瞬時に閉じ込め、石化のまなざしを助け、それと一緒に機能するように働く。
+* **人を石化な眼差し**: 純粋な青白のエネルギーの目
+  * 石化は通常、被害者の体にゆっくりとした大規模な変化をもたらし、10～30秒かけて硬く重くなり、被害者が完全に石になるまで続く。
+  * 視線が途切れれば当然逆転する。
 
-## Other Traits
-* Charismatic, slippery, will try to use his silver tongue to barter and negotiate
-* Will use his gaze to intimidate and coerce, if not fully incapacitate
-* Likes to utilise concealed weapons/armor to get the upper hand
-  * Proficient with compact/pocket weapons and most one-handed blades
-* Treats his gaze victims like trophies/art; has a hoard of them somewhere
+## その他の情報
+* カリスマ性があり、滑舌が悪く、銀の舌を使って物々交換や交渉をしようとする。
+* 完全な無力化とまではいかないまでも、威嚇と強要のために視線を利用する。
+* 隠れた武器や防具を駆使して優位に立つのが好き。
+  * コンパクトなポケット武器とほとんどの片手剣に精通している。
+* 視線の犠牲者をトロフィーやアートのように扱い、どこかに溜め込んでいる。
 
 {% endcapture %}
 
