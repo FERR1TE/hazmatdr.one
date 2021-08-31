@@ -1,6 +1,7 @@
 ---
-title: テザクのキャラクターシート
-description: "人を石化な眼差しのバジリスク。"
+title: Tekxach Refsheet
+description: "Basilisk with a petrifying gaze."
+favicon: "/assets/img/tekxach_favicon.png"
 socialmedia:
   image: https://hazmatdr.one/assets/img/tekxach-twitter-card.png
   type: summary_large_image
