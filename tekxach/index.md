@@ -43,6 +43,7 @@ flexbox:
   * Proficient with compact/pocket weapons and most one-handed blades
 * Treats his gaze victims like trophies/art; has a hoard of them somewhere
 
+[日本語](https://hazmatdr.one/tekxach/jp/)
 {% endcapture %}
 
 <!-- Turns capture groups into a flex box. Must come after capture groups. -->
