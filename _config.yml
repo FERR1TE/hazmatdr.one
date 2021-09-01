@@ -2,7 +2,7 @@
 title: T615-J Hazmat Drone
 barcodetitle: T615-J
 
-# Values that pages should be easily allowed to overwrite
+# Values that pages should be allowed to overwrite easily
 defaults:
   -
     scope:
