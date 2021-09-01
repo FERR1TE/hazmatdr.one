@@ -1,7 +1,7 @@
 <meta property="og:site_name" content="{{ site.title }}">
 
 {% if site.social.twitter %}
-<meta name="twitter:site" content="{{ site.social.twitter }}">
+<meta name="twitter:site" content="{{ page.social.twitter }}">
 {% endif %}
 
 {% if page.socialmedia.image %}
@@ -10,9 +10,9 @@
 <meta name="twitter:image:src" content="{{ page.socialmedia.image }}">
 <meta name="twitter:card" content="{{ page.socialmedia.type }}">
 {% else %}
-<meta property="og:image" content="/assets/img/favicon.png" />
-<meta name="twitter:image" content="/assets/img/favicon.png">
-<meta name="twitter:image:src" content="/assets/img/favicon.png">
+<meta property="og:image" content="{{ page.favicon | default: site.favicon }}" />
+<meta name="twitter:image" content="{{ page.favicon | default: site.favicon }}">
+<meta name="twitter:image:src" content="{{ page.favicon | default: site.favicon }}">
 <meta name="twitter:card" content="summary">
 {% endif %}
 

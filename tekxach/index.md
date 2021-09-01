@@ -5,6 +5,10 @@ favicon: "/assets/img/tekxach_favicon.png"
 socialmedia:
   image: https://hazmatdr.one/assets/img/tekxach-twitter-card.png
   type: summary_large_image
+social:
+  twitter: Tekxach
+  furaffinity: false
+  telegram: Tekxach
 flexbox:
   leftflex: 2
   rightflex: 3

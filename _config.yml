@@ -1,9 +1,17 @@
+# Values that should be consistent across the site
 title: T615-J Hazmat Drone
 barcodetitle: T615-J
-favicon: "/assets/img/favicon.png"
-social:
-  twitter: HazmatDrone
-  furaffinity: HazmatDrone
-  telegram: HazmatDrone
-  github: HazmatDrone
-  githubsitesrc: HazmatDrone/HazmatDrone
+
+# Values that pages should be easily allowed to overwrite
+defaults:
+	-
+		scope:
+			path: ""
+		values:
+			favicon: "/assets/img/favicon.png"
+			social:
+				twitter: HazmatDrone
+				furaffinity: HazmatDrone
+				telegram: HazmatDrone
+				github: HazmatDrone
+				githubsitesrc: HazmatDrone/HazmatDrone
