@@ -7,7 +7,6 @@ socialmedia:
   type: summary_large_image
 social:
   twitter: Tekxach
-  furaffinity: false
   telegram: Tekxach
 flexbox:
   leftflex: 2
