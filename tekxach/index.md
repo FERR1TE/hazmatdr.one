@@ -22,6 +22,7 @@ flexbox:
 {% capture rightbox %}
 
 ## General Info
+**English** | [日本語](https://hazmatdr.one/tekxach/jp/)
 - **Name**: Tekxach [/ˈtɛʼzɑk/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91k&voice=Brian)
 - **Species**: Basilisk
 - **Gender:** Male
@@ -42,8 +43,6 @@ flexbox:
 * Likes to utilise concealed weapons/armor to get the upper hand
   * Proficient with compact/pocket weapons and most one-handed blades
 * Treats his gaze victims like trophies/art; has a hoard of them somewhere
-
-[日本語](https://hazmatdr.one/tekxach/jp/)
 {% endcapture %}
 
 <!-- Turns capture groups into a flex box. Must come after capture groups. -->
