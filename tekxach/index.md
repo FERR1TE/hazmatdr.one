@@ -21,8 +21,8 @@ flexbox:
 {% endcapture %}
 {% capture rightbox %}
 
-## General Info
 **English** | [日本語](https://hazmatdr.one/tekxach/jp/)
+## General Info
 - **Name**: Tekxach [/ˈtɛʼzɑk/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91k&voice=Brian)
 - **Species**: Basilisk
 - **Gender:** Male

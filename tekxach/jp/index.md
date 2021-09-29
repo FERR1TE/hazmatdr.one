@@ -21,8 +21,8 @@ flexbox:
 {% endcapture %}
 {% capture rightbox %}
 
-## 概要
 [English](https://hazmatdr.one/tekxach/) | **日本語**
+## 概要
 - **名前**: テザク - Tekxach
 - **種**: バジリスク
 - **性別:** 雄
