@@ -1,6 +1,8 @@
 ---
 title: Refsheet
 description: "Twitter/FA/Telegram: @HazmatDrone"
+social:
+  furaffinity: "gallery/hazmatdrone/folder/881793/T615-J"
 socialmedia:
   image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png
   type: summary_large_image
