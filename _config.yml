@@ -15,3 +15,7 @@ defaults:
         telegram: HazmatDrone
         github: HazmatDrone
         githubsitesrc: HazmatDrone/HazmatDrone
+      nav:
+        T615-J: "/"
+        Tekxach: "/tekxach"
+        Drakkite: "/drakkite"
