@@ -19,6 +19,6 @@ defaults:
         - title: "T615-J"
           url: "/"
         - title: Tekxach
-          url: "/tekxach"
+          url: "/tekxach/"
         - title: Drakkite 
-          url: "/drakkite"
+          url: "/drakkite/"
