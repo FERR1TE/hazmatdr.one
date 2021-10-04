@@ -1,8 +1,8 @@
 {% if page.nav %}
 	<h6>
 	{% for item in page.nav %}
-		{% if item.value == page_url %}<b>{{item.key}}</b>{% else %}<a href = "{{ item.value }}">{{ item.key }}</a>{% endif %}
-		{% if item.value != page.nav.last %} | {% endif %}
+		{% if item.url == page_url %}<b>{{item.title}}</b>{% else %}<a href = "{{ item.url }}">{{ item.title }}</a>{% endif %}
+		{% if item != page.nav.last %} | {% endif %}
 	{% endfor %}
 	</h6>
 {% endif %}
