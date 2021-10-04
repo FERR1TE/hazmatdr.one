@@ -25,7 +25,8 @@ flexbox:
 - **Weight** 250kg *(551lbs)*
 - **Orientation:** Gay/grey ace
 
-Drakkite is a stone gargoyle that comes to life in the darkness. During the days, he may perch on the rooftops, or wear a cloak to cover himself from the light.
+Animated by dark magic, Drakkite is a stone gargoyle that comes to life in the darkness. He is vicious, agile, flying hunter with a body resistant to most attacks.
+During the day, he may perch on the rooftops, wear a cloak to cover himself from the light, or seek refuge somewhere indoors.
 
 {% endcapture %}
 {% capture rightbox %}
