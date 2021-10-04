@@ -16,9 +16,12 @@ defaults:
         github: HazmatDrone
         githubsitesrc: HazmatDrone/HazmatDrone
       nav:
-        - title: T615-J
+        - 
+          title: T615-J
           url: "/"
-        - title: Tekxach:
+        - 
+          title: Tekxach:
           url: "/tekxach"
-        - title: Drakkite: 
+        - 
+          title: Drakkite: 
           url: "/drakkite"
