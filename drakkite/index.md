@@ -19,7 +19,6 @@ flexbox:
 	
 {% capture leftbox %}
 
-## General Info
 - **Name**: Drakkite
 - **Species**: Gargoyle
 - **Gender:** Male
