@@ -18,19 +18,30 @@ flexbox:
 
 	
 {% capture leftbox %}
-
+## General Info
 - **Name**: Drakkite
 - **Species**: Gargoyle
 - **Gender:** Male
+- **Weight** 250kg *(551lbs)*
 - **Orientation:** Gay/grey ace
+
+Drakkite is a stone gargoyle that comes to life in the darkness. During the days, he may perch on the rooftops, or wear a cloak to cover himself from the light.
 
 {% endcapture %}
 {% capture rightbox %}
 
-* Moves surprisingly swiftly for a creature made of stone
-* Movement slows in light; freezes entirely in daylight
-* Can wear a hood to mitigate the effects of light
-* Has the appearance of an ordinary statue whilst remaining completely still
+## Strengths
+* Surprisingly swift and agile for a creature made of stone, and can fly
+* Highly resistant to nonmagical slashing attacks (swords, axes, etc etc)
+* Can hold completely still, giving the appearance of an ordinary statue
+* Does not need food, air, or sleep, and is as immortal as his stone body allows
+
+## Weaknesses
+* Movement slows in light; freezes entirely in daylight (or other broad-spectrum light)
+  * Can wear a hood to mitigate the effects of light
+* Brittle, thus damage resistance can be bypassed with very heavy bludgeoning or piercing
+* Can be temporarily incapacitated with [Dispel Magic](https://www.dndbeyond.com/spells/dispel-magic)
+* Can't swim
 
 {% endcapture %}
 
