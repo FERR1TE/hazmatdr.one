@@ -1,0 +1,13 @@
+{% if page.nav %}
+	{% for item in page.nav %}
+		{% if item == page_url %}
+			<b>{{item.title}}</b>
+		{% else %}
+			<a href = "{{ item }}">{{ item.title }}</a>
+		{% endif %}
+		
+		{% if item != page.nav.last %}
+		 | 
+		{% endif %}
+	{% endfor %}
+{% endif %}
