@@ -20,6 +20,7 @@ socialmedia:
 - **Gender:** Male *(it)*
 - **Orientation:** Gay
 
+
 - Contractable, affordable, disposable worker
 	- Suited for working in environments with **hazardous chemicals** or **high voltages** present
 	- It is preprogrammed with some knowledge of chemistry and engineering
