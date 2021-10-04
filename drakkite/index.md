@@ -33,7 +33,7 @@ During the day, he may perch on the rooftops, wear a cloak to cover himself from
 
 ## Strengths
 * Surprisingly swift and agile for a creature made of stone, and can fly
-* Highly resistant to nonmagical slashing attacks (swords, axes, etc etc)
+* Highly resistant to nonmagical slashing attacks (swords, axes, etc)
 * Can hold completely still, giving the appearance of an ordinary statue
 * Does not need food, air, or sleep, and is as immortal as his stone body allows
 
