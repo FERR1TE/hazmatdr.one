@@ -37,6 +37,7 @@ During the day, he may perch on the rooftops, wear a cloak to cover himself from
 * Highly resistant to nonmagical slashing attacks (swords, axes, etc)
 * Can hold completely still, giving the appearance of an ordinary statue
 * Does not need food, air, or sleep, and is as immortal as his stone body allows
+* Expert at "Moving Statues"
 
 ## Weaknesses
 * Movement slows in light; becomes completely inanimate in daylight (or other broad-spectrum light)
