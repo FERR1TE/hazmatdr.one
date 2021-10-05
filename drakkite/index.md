@@ -22,7 +22,7 @@ flexbox:
 ## General Info
 - **Name**: Drakkite
 - **Species**: Gargoyle
-- **Gender:** Male
+- **Gender:** Male *(he/him, it/its)*
 - **Weight** 250kg *(551lbs)*
 - **Orientation:** Gay/grey ace
 
