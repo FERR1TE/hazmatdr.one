@@ -39,7 +39,7 @@ During the day, he may perch on the rooftops, wear a cloak to cover himself from
 * Does not need food, air, or sleep, and is as immortal as his stone body allows
 
 ## Weaknesses
-* Movement slows in light; freezes entirely in daylight (or other broad-spectrum light)
+* Movement slows in light; becomes inanimate in daylight (or other broad-spectrum light)
   * Can wear a hood to mitigate the effects of light
 * Brittle, thus damage resistance can be bypassed with very heavy bludgeoning or piercing
 * Can be temporarily incapacitated with [Dispel Magic](https://www.dndbeyond.com/spells/dispel-magic) or [Antimagic Field](https://www.dndbeyond.com/spells/antimagic-field)
