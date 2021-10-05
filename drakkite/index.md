@@ -29,6 +29,12 @@ flexbox:
 Animated by dark magic, Drakkite is a stone gargoyle that comes to life in the darkness. He is vicious, agile, flying hunter with a body resistant to most attacks.
 During the day, he may perch on the rooftops, wear a cloak to cover himself from the light, or seek refuge somewhere indoors.
 
+## Colours
+<span style="display: flex; flex-wrap: wrap">
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #7C8086">#7C8086</span> Stone</span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #C7FFFF">#C7FFFF</span> Eye Glow</span>
+</span>
+
 {% endcapture %}
 {% capture rightbox %}
 
