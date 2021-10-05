@@ -47,7 +47,7 @@ Eyes cease to glow when inanimate.
 * Expert at the game [Moving Statues](https://en.wikipedia.org/wiki/Statues_(game))
 
 ## Weaknesses
-* Movement slows in light; becomes completely inanimate in daylight (or other broad-spectrum light)
+* Movement slows and becomes lethargic in light; becomes completely inanimate in daylight (or other broad-spectrum light)
   * Can wear a hood to mitigate the effects of light
 * Brittle, thus damage resistance can be bypassed with very heavy bludgeoning or piercing
 * Can be temporarily incapacitated with [Dispel Magic](https://www.dndbeyond.com/spells/dispel-magic) or [Antimagic Field](https://www.dndbeyond.com/spells/antimagic-field)
