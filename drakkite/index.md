@@ -3,7 +3,7 @@ title: Drakkite
 description: "Stone gargoyle that comes to life in the darkness"
 favicon: "/assets/img/drakkite-favicon.png"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/drakkite-1200px.png
+  image: https://hazmatdr.one/assets/img/drakkite-1200px-preview.png
   type: summary_large_image
 social:
   twitter: Tekxach
