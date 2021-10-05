@@ -29,6 +29,7 @@ flexbox:
 Animated by dark magic, Drakkite is a stone gargoyle that comes to life in the darkness. He is vicious, agile, flying hunter with a body resistant to most attacks.
 During the day, he may perch on the rooftops, wear a cloak to cover himself from the light, or seek refuge somewhere indoors.
 
+Eyes cease to glow when inanimate.
 ## Colours
 <span style="display: flex; flex-wrap: wrap">
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #7C8086">#7C8086</span> Stone</span>
@@ -41,7 +42,7 @@ During the day, he may perch on the rooftops, wear a cloak to cover himself from
 ## Strengths
 * Surprisingly swift and agile for a creature made of stone, and can fly
 * Highly resistant to nonmagical slashing attacks (swords, axes, etc)
-* Can hold completely still, giving the appearance of an ordinary statue
+* Can become inanimate at will, giving the appearance of an ordinary statue
 * Does not need food, air, or sleep, and is as immortal as his stone body allows
 * Expert at the game [Moving Statues](https://en.wikipedia.org/wiki/Statues_(game))
 
