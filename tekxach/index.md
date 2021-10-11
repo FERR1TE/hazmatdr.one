@@ -18,6 +18,13 @@ flexbox:
 
 [![Refsheet Image](/assets/img/2021JulyTekxach2.png)](/assets/img/2021JulyTekxach2.png)
 ###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
+<span style="display: flex; flex-wrap: wrap">
+	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #6C7A54">#6C7A54</span></span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #98906B">#98906B</span></span>
+	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #3D4A26">#3D4A26</span></span>
+	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #1C1C1C">#1C1C1C</span></span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CE9B33">#CE9B33</span></span>
+</span>
 
 {% endcapture %}
 {% capture rightbox %}
