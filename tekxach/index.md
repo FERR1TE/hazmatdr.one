@@ -3,7 +3,7 @@ title: Tekxach Refsheet
 description: "Basilisk with a petrifying gaze."
 favicon: "/assets/img/tekxach_favicon.png"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/tekxach-twitter-card.png
+  image: https://hazmatdr.one/assets/img/2021JulyTekxach2-1200.png
   type: summary_large_image
 social:
   twitter: Tekxach
@@ -16,7 +16,7 @@ flexbox:
 
 {% capture leftbox %}
 
-[![Refsheet Image](/assets/img/2021JulyTekxach2.png)](/assets/img/2021JulyTekxach2.png)
+[![Refsheet Image](/assets/img/2021JulyTekxach2-1200.png)](/assets/img/2021JulyTekxach2.png)
 ###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
 <span style="display: flex; flex-wrap: wrap">
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #6C7A54">#6C7A54</span></span>
