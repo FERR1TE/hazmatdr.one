@@ -21,8 +21,8 @@ flexbox:
 {% capture leftbox %}
 ## Colours
 <span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #7C8086">#7C8086</span> Stone</span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #C7FFFF">#C7FFFF</span> Eye Glow</span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #7C8086">#7C8086</span></span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #C7FFFF">#C7FFFF</span></span>
 </span>
 
 ## General Info
