@@ -1,4 +1,6 @@
 # Values that should be consistent across the site
+remote_theme: HazmatDrone/hazcyber1theme
+
 title: T615-J Hazmat Drone
 barcodetitle: T615-J
 
