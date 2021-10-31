@@ -11,6 +11,7 @@ defaults:
       path: ""
     values:
       favicon: "/assets/img/favicon.png"
+      background: "/assets/img/site-background.png"
       social:
         twitter: HazmatDrone
         furaffinity: user/HazmatDrone
