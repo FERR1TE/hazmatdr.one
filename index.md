@@ -4,7 +4,7 @@ description: "Twitter/FA/Telegram: @HazmatDrone"
 social:
   furaffinity: "gallery/hazmatdrone/folder/881793/T615-J"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/hazmatdrone-refsheet-1200.png
+  image: /assets/img/hazmatdrone-sitepreview.png
   type: summary_large_image
 ---
 

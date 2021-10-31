@@ -3,7 +3,7 @@ title: テザクのキャラクターシート
 description: "人を石化な眼差しのバジリスク。"
 favicon: "/assets/img/tekxach-favicon.png"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/2021JulyTekxach2-sitepreview.png
+  image: https://hazmatdr.one/assets/img/tekxach-sitepreview.png
   type: summary_large_image
 social:
   twitter: Tekxach
