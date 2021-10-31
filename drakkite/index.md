@@ -1,6 +1,6 @@
 ---
 title: Drakkite
-description: "Stone gargoyle that comes to life in the darkness"
+description: "Stone gargoyle that comes to life in the darkness."
 favicon: "/assets/img/drakkite-favicon.png"
 socialmedia:
   image: https://hazmatdr.one/assets/img/drakkite-sitepreview.png
