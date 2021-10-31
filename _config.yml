@@ -21,7 +21,10 @@ defaults:
       nav:
         - title: "T615-J"
           url: "/"
+          icon: "/assets/img/favicon.png"
         - title: Tekxach
           url: "/tekxach/"
+          icon: "/assets/img/tekxach-favicon.png"
         - title: Drakkite 
           url: "/drakkite/"
+          icon: "/assets/img/drakkite-favicon.png"
