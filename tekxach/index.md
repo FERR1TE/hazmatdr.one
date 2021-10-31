@@ -1,7 +1,7 @@
 ---
 title: Tekxach Refsheet
 description: "Basilisk with a petrifying gaze."
-favicon: "/assets/img/tekxach_favicon.png"
+favicon: "/assets/img/tekxach-favicon.png"
 socialmedia:
   image: https://hazmatdr.one/assets/img/2021JulyTekxach2-1200.png
   type: summary_large_image
