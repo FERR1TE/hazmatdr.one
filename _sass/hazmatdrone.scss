@@ -281,7 +281,8 @@ footer > .bubble-outer, footer > .bubble-container {
 
 	// Saves precious horizontal space by reducing padding for the main element
 	main{
-		padding: 1rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
 
 		// Saves precious horizontal space by making the bullet points indent less
 		ul {
