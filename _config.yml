@@ -16,7 +16,7 @@ defaults:
         furaffinity: user/HazmatDrone
         telegram: HazmatDrone
         github: HazmatDrone
-        githubsitesrc: HazmatDrone/hazmatdr.one
+        githubsitesrc: "HazmatDrone/hazmatdr.one"
       nav:
         - title: "T615-J"
           url: "/"
