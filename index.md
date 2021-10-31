@@ -1,6 +1,6 @@
 ---
-title: Refsheet
-description: "Twitter/FA/Telegram: @HazmatDrone"
+title: T615-J
+description: "Cyberpunk rubber service unit."
 social:
   furaffinity: "gallery/hazmatdrone/folder/881793/T615-J"
 socialmedia:

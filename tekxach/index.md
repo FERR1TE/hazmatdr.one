@@ -1,5 +1,5 @@
 ---
-title: Tekxach Refsheet
+title: Tekxach
 description: "Basilisk with a petrifying gaze."
 favicon: "/assets/img/tekxach-favicon.png"
 socialmedia:

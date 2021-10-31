@@ -1,5 +1,5 @@
 ---
-title: テザクのキャラクターシート
+title: テザク
 description: "人を石化な眼差しのバジリスク。"
 favicon: "/assets/img/tekxach-favicon.png"
 socialmedia:
