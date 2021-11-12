@@ -18,12 +18,13 @@ socialmedia:
 - **Species:** Drone, dragon *(Living rubber)*
 - **Height:** ~6ft *(180cm)*
 - **Gender:** Male *(it)*
-- **Orientation:** Gay
+- **Orientation:** Gay/grey ace
 
 
 - Contractable, affordable, disposable worker
 	- Suited for working in environments with **hazardous chemicals** or **high voltages** present
 	- It is preprogrammed with some knowledge of chemistry and engineering
+
 
 - Its body is made **entirely of rubber**
 - Most gear is detachable *(As shown on refsheet)*
