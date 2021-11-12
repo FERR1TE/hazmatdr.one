@@ -52,7 +52,7 @@ socialmedia:
 - **Digitigrade**, should have a [buff physique](/assets/img/physique.png/)
 - Fairly squishy; creases up a bit at joints etc
 - Don't miss the subtle markings on the wings
-- It is a **living rubber creature**, not a suit or robot
+- It is a **living rubber creature**, <u>not a suit</u> or robot
 - A PNG of its proper barcode can be found [here](/barcode/) for optional use.
 
 {% endcapture %}
