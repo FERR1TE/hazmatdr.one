@@ -14,12 +14,10 @@
 
   <body style="background-image: url('{{ page.background }}')">
 	{% include header.html %}
-
-    <main data-augmented-ui="tl-2-clip-x tr-2-clip-x br-scoop-x bl-clip both" class="styleme"></div>
-      {% include simplenav.html %}
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
+	{% include footer.html %}
+	<main data-augmented-ui="tl-2-clip-x tr-2-clip-x br-scoop-x bl-clip both" class="styleme"></div>
+		{% include simplenav.html %}
+		{{ content }}
+	</main>
   </body>
 </html>
