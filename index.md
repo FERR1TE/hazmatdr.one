@@ -3,6 +3,7 @@ title: T615-J
 description: "Cyberpunk rubber service unit."
 social:
   furaffinity: "gallery/hazmatdrone/folder/881793/T615-J"
+  telegram: T615J
 socialmedia:
   image: https://hazmatdr.one/assets/img/hazmatdrone-sitepreview.png
   type: summary_large_image
