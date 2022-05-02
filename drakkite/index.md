@@ -8,6 +8,7 @@ socialmedia:
 social:
   twitter: Tekxach
   furaffinity: "gallery/hazmatdrone/folder/1032250/Drakkite/"
+  telegram: Drakkite
 flexbox:
   leftflex: 2
   rightflex: 3
