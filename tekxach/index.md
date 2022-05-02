@@ -8,6 +8,7 @@ socialmedia:
 social:
   twitter: Tekxach
   furaffinity: "gallery/hazmatdrone/folder/1023661/Tekxach"
+  telegram: Tekxach
 flexbox:
   leftflex: 2
   rightflex: 3
