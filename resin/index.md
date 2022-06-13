@@ -28,15 +28,17 @@ flexbox:
 Resin is a squeaky, shiny rubber toy dragon, with a bit of a dom lean. Usually he dons black latex shorts which are hard to discern from his black latex body.
 
 ## Notes
-- Is usually fairly soft and squishy, and has a relatively low melting point
+- Is usually fairly soft and squishy
+- Has a relatively [low melting point](https://www.furaffinity.net/view/26707388/)
 - Squeaks a bit as he moves
-- Can be very dommy or very subby depending on the mood or individual
+- Can be very [dommy](https://www.furaffinity.net/view/33994059/) or very [subby](https://www.furaffinity.net/view/19488527/) depending on the mood or individual
 
 <span style="display: flex; flex-wrap: wrap">
 	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span></span>
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CD822A">#CD822A</span></span>
 </span>
 - Don't colourpick from ref! Use your natural black latex tone.
+    - It's a **good** thing if latex gear is about the same tone and texture as him!
 
 {% endcapture %}
 
