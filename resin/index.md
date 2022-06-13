@@ -18,7 +18,7 @@ flexbox:
 <span style="display: flex; flex-wrap: wrap">
 	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span> Body </span>
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CD822A">#CD822A</span> Eyes</span>
-  (don't colourpick from ref!)
+  <span><i>(don't colourpick from ref!)</i></span>
 </span>
 {% endcapture %}
 {% capture rightbox %}
