@@ -36,7 +36,7 @@ Resin is a squeaky, shiny rubber toy dragon, with a bit of a dom lean. Usually h
 	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span></span>
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CD822A">#CD822A</span></span>
 </span>
-- Don't colourpick from ref!
+- Don't colourpick from ref! Use your natural black latex tone.
 
 {% endcapture %}
 
