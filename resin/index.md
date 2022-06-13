@@ -5,7 +5,7 @@ social:
   furaffinity: "gallery/rubberbutt/folder/167296/Resin"
   telegram: ResinDrake
 socialmedia:
-  image: "https://hazmatdr.one/assets/img/tekxach-sitepreview.png"
+  image: "https://hazmatdr.one/assets/img/resin-sitepreview.png"
   type: summary_large_image
 ---
 
