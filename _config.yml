@@ -22,9 +22,12 @@ defaults:
         - title: "T615-J"
           url: "/"
           icon: "/assets/img/favicon.png"
+        - title: Resin
+          url: "/resin/"
+          icon: "/assets/img/resin-favicon.png"
         - title: Tekxach
           url: "/tekxach/"
           icon: "/assets/img/tekxach-favicon.png"
-        - title: Drakkite 
+        - title: Drakkite
           url: "/drakkite/"
           icon: "/assets/img/drakkite-favicon.png"
