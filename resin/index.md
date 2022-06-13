@@ -13,7 +13,7 @@ flexbox:
 ---
 
 {% capture leftbox %}
-[![Refsheet Image](/assets/img/rykeys_01_l_1200px.png)](/assets/img/rykeys_01_l.png)
+[![Refsheet Image](/assets/img/rykeus_01_l_1200px.png)](/assets/img/rykeys_01_l.png)
 ###### Art by [Rykeus](https://www.furaffinity.net/view/34018194/) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
 <span style="display: flex; flex-wrap: wrap">
 	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span> Body </span>
