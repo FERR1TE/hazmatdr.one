@@ -1,6 +1,7 @@
 ---
 title: Resin
 description: "Living-rubber hypnodom dragon."
+favicon: "/assets/img/resin-favicon.png"
 social:
   furaffinity: "gallery/rubberbutt/folder/167296/Resin"
   telegram: ResinDrake
