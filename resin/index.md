@@ -17,11 +17,6 @@ flexbox:
 {% capture leftbox %}
 [![Refsheet Image](/assets/img/rykeus_01_l_1200px.png)](/assets/img/rykeys_01_l.png)
 ###### Art by [Rykeus](https://www.furaffinity.net/view/34018194/) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
-<span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span> Body </span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CD822A">#CD822A</span> Eyes</span>
-</span>
-<span><i>(don't colourpick from ref!)</i></span>
 {% endcapture %}
 {% capture rightbox %}
 ## General Info
@@ -36,6 +31,12 @@ Resin is a squeaky, shiny rubber toy dragon, with a bit of a dom lean. Usually h
 - Is usually fairly soft and squishy, and has a relatively low melting point
 - Squeaks a bit as he moves
 - Can be very dommy or very subby depending on the mood or individual
+
+<span style="display: flex; flex-wrap: wrap">
+	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span></span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CD822A">#CD822A</span></span>
+</span>
+- Don't colourpick from ref!
 
 {% endcapture %}
 
