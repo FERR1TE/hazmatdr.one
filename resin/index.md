@@ -7,6 +7,9 @@ social:
 socialmedia:
   image: "https://hazmatdr.one/assets/img/resin-sitepreview.png"
   type: summary_large_image
+flexbox:
+  leftflex: 2
+  rightflex: 3
 ---
 
 {% capture leftbox %}
