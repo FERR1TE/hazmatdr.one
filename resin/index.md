@@ -28,6 +28,7 @@ flexbox:
 Resin is a squeaky, shiny rubber toy dragon, with a bit of a dom lean. Usually he dons black latex shorts which are hard to discern from his black latex body.
 
 ## Notes
+- Always wears a collar
 - Is usually fairly soft and squishy
 - Has a relatively [low melting point](https://www.furaffinity.net/view/26707388/)
 - Squeaks a bit as he moves
