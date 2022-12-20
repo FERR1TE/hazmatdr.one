@@ -15,6 +15,7 @@ defaults:
       social:
         twitter: HazmatDrone
         furaffinity: user/HazmatDrone
+        mastodon: "https://rubber.social/@resin"
         telegram: HazmatDrone
         github: HazmatDrone
         githubsitesrc: "HazmatDrone/hazmatdr.one"
