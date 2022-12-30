@@ -17,6 +17,7 @@ defaults:
         furaffinity: user/HazmatDrone
         mastodon: "https://rubber.social/@resin"
         telegram: HazmatDrone
+        discord: 235584007297826819
         github: HazmatDrone
         githubsitesrc: "HazmatDrone/hazmatdr.one"
       nav:
