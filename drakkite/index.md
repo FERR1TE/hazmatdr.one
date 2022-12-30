@@ -26,12 +26,12 @@ flexbox:
 </span>
 
 ## General Info
-- **Name**: Drakkite
-- **Species**: Gargoyle
+- **Name:** Drakkite
+- **Species:** Gargoyle
 - **Gender:** Male *(he/him, it/its)*
 - **Orientation:** Gay/grey ace
-- **Height** 180cm *(6ft)*
-- **Weight** 250kg *(551lbs)*
+- **Height:** 180cm *(6ft)*
+- **Weight:** 250kg *(551lbs)*
 
 
 Animated by dark magic, Drakkite is a stone gargoyle that comes to life in the darkness. He is vicious, agile, flying hunter with a body resistant to most attacks.

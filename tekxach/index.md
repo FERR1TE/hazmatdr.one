@@ -30,13 +30,13 @@ flexbox:
 
 **English** | [日本語](https://hazmatdr.one/tekxach/jp/)
 ## General Info
-- **Name**: Tekxach [/ˈtɛʼzɑk/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91k&voice=Brian)
-- **Species**: Basilisk
+- **Name:** Tekxach [/ˈtɛʼzɑk/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91k&voice=Brian)
+- **Species:** Basilisk
 - **Gender:** Male
 - **Orientation:** Gay/grey ace
-- **Height** 175cm *(5'9")*
+- **Height:** 175cm *(5'9")*
 - **Occupation:** Bounty hunter
-- **Alignment**: Chaotic neutral
+- **Alignment:** Chaotic neutral
 
 ## Abilities
 * **Hypnotic gaze**: Faintly glowing eyes
