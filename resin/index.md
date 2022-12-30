@@ -22,9 +22,9 @@ flexbox:
 ## General Info
 - **Name**: Resin Drake
 - **Species**: Living rubber dragon
-- **Height**: 170cm *(5'7")*
 - **Gender:** Male
 - **Orientation:** Gay/grey ace
+- **Height**: 170cm *(5'7")*
 
 Resin is a squeaky, shiny rubber toy dragon, with a bit of a dom lean. Usually he dons black latex shorts which are hard to discern from his black latex body.
 
