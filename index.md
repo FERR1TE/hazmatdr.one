@@ -17,9 +17,10 @@ socialmedia:
 *T615-J Hazardous Materials Drone - Cyberpunk rubber service unit*
 - **Nicknames:** T615-J, T6, Drone, Hazmat
 - **Species:** Drone, dragon *(Living rubber)*
-- **Height:** ~6ft *(180cm)*
 - **Gender:** Male *(it)*
 - **Orientation:** Gay/grey ace
+- **Height:** 180cm *(6ft)*
+
 
 
 - Contractable, affordable, disposable worker
