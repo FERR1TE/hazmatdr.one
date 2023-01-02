@@ -1,6 +1,6 @@
 ---
 title: Resin
-description: "Living-rubber hypnodom dragon."
+description: "Living-rubber dragon."
 favicon: "/assets/img/resin-favicon.png"
 social:
   twitter: ResinDrake
@@ -10,13 +10,13 @@ socialmedia:
   image: "https://hazmatdr.one/assets/img/resin-sitepreview.png"
   type: summary_large_image
 flexbox:
-  leftflex: 1
-  rightflex: 1
+  leftflex: 2
+  rightflex: 3
 ---
 
 {% capture leftbox %}
-[![Refsheet Image](/assets/img/rykeus_01_l_1200px.png)](/assets/img/rykeus_01_l.png)
-###### Art by [Rykeus](https://www.furaffinity.net/view/34018194/) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
+[![Refsheet Image](/assets/img/resin-ref-1200px.png)](/assets/img/resin_refsheet.png)
+###### Art by [Rindeadsong](https://www.furaffinity.net/view/27334962/) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
 {% endcapture %}
 {% capture rightbox %}
 ## General Info
@@ -26,7 +26,7 @@ flexbox:
 - **Orientation:** Gay/grey ace
 - **Height:** 170cm *(5'7")*
 
-Resin is a squeaky, shiny rubber toy dragon, with a bit of a dom lean. Usually he dons black latex shorts which are hard to discern from his black latex body.
+Resin is a squeaky, shiny living-rubber toy dragon. He usually dons black latex shorts which are hard to discern from his black latex body.
 
 ## Notes
 - Always wears a collar
