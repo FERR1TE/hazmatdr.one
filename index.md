@@ -1,6 +1,6 @@
 ---
 title: T615-J
-description: "Cyberpunk rubber service unit."
+description: "Cyberpunk rubber enforcer drone."
 social:
   furaffinity: "gallery/hazmatdrone/folder/881793/T615-J"
   telegram: T615J
@@ -14,7 +14,7 @@ socialmedia:
 
 {% capture leftbox %}
 ## General Info
-*T615-J Hazardous Materials Drone - Cyberpunk rubber service unit*
+*T615-J Hazardous Materials Drone - Cyberpunk rubber enforcer drone*
 - **Nicknames:** T615-J, T6, Drone, Hazmat
 - **Species:** Drone, dragon *(Living rubber)*
 - **Gender:** Male *(it)*
