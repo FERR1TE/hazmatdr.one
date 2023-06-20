@@ -13,21 +13,25 @@ defaults:
       favicon: "/assets/img/favicon.png"
       background: "/assets/img/site-bg.png"
       social:
-        twitter: HazmatDrone
-        furaffinity: user/HazmatDrone
+        twitter: ResinDrake
+        furaffinity: user/ResinDrake
         mastodon: "https://rubber.social/@resin"
-        telegram: HazmatDrone
-        discord: Resin#0554
+        telegram: ResinDrake
+        discord: ResinDrake
         discord_id: 235584007297826819
         github: HazmatDrone
         githubsitesrc: "HazmatDrone/hazmatdr.one"
       nav:
-        - title: "T615-J"
-          url: "/"
-          icon: "/assets/img/favicon.png"
         - title: Resin
           url: "/resin/"
           icon: "/assets/img/resin-favicon.png"
+        - title: FERR1TE
+          url: "/FERR1TE/"
+          icon: "/assets/img/ferr1te-favicon.png"
+        - title: "T615-J"
+          url: "/"
+          icon: "/assets/img/favicon.png"
+
         - title: Tekxach
           url: "/tekxach/"
           icon: "/assets/img/tekxach-favicon.png"
