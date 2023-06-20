@@ -3,7 +3,7 @@ title: Tekxach
 description: "Basilisk with a petrifying gaze."
 favicon: "/assets/img/tekxach-favicon.png"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/tekxach-sitepreview.png
+  image: "/assets/img/tekxach-sitepreview.png"
   type: summary_large_image
 social:
   twitter: Tekxach
@@ -12,23 +12,28 @@ social:
 flexbox:
   leftflex: 2
   rightflex: 3
+colors:
+  - color: "#6C7A54"
+    darktext: true
+  - color: "#3D4A26"
+    darktext: false
+  - color: "#98906B"
+    darktext: true
+  - color: "#CE9B33"
+    darktext: true
 ---
 
 {% capture leftbox %}
 
 [![Refsheet Image](/assets/img/2021JulyTekxach2-1200.png)](/assets/img/2021JulyTekxach2.png)
-###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
-<span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #6C7A54">#6C7A54</span></span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #3D4A26">#3D4A26</span></span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #98906B">#98906B</span></span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CE9B33">#CE9B33</span></span>
-</span>
+###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - {% include click.html %} the image for full version
+
+{% include colorbox.html %}
 
 {% endcapture %}
 {% capture rightbox %}
 
-**English** | [日本語](https://hazmatdr.one/tekxach/jp/)
+**English** | [日本語](jp/)
 ## General Info
 - **Name:** Tekxach [/ˈtɛʼzɑk/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91k&voice=Brian)
 - **Species:** Basilisk

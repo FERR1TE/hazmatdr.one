@@ -3,7 +3,7 @@ title: テザク
 description: "人を石化な眼差しのバジリスク。"
 favicon: "/assets/img/tekxach-favicon.png"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/tekxach-sitepreview.png
+  image: "/assets/img/tekxach-sitepreview.png"
   type: summary_large_image
 social:
   twitter: Tekxach
@@ -12,23 +12,28 @@ social:
 flexbox:
   leftflex: 2
   rightflex: 3
+colors:
+  - color: "#6C7A54"
+    darktext: true
+  - color: "#3D4A26"
+    darktext: false
+  - color: "#98906B"
+    darktext: true
+  - color: "#CE9B33"
+    darktext: true
 ---
 
 {% capture leftbox %}
 
 [![キャラクターシート](/assets/img/2021JulyTekxach2.png)](/assets/img/2021JulyTekxach2.png)
 ###### [Hacony](https://www.furaffinity.net/user/qundium)のアート。画像をクリックすると拡大表示します。
-<span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #6C7A54">#6C7A54</span></span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #3D4A26">#3D4A26</span></span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #98906B">#98906B</span></span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CE9B33">#CE9B33</span></span>
-</span>
+
+{% include colorbox.html %}
 
 {% endcapture %}
 {% capture rightbox %}
 
-[English](https://hazmatdr.one/tekxach/) | **日本語**
+[English](../) | **日本語**
 ## 概要
 - **名前：**　テザク - Tekxach
 - **種：**　バジリスク

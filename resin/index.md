@@ -12,11 +12,16 @@ socialmedia:
 flexbox:
   leftflex: 2
   rightflex: 3
+colors:
+  - color: black
+    display: Black latex
+  - color: "#CD822A"
+    darktext: true
 ---
 
 {% capture leftbox %}
 [![Refsheet Image](/assets/img/resin-ref-1200px.png)](/assets/img/resin_refsheet.png)
-###### Art by [Rindeadsong](https://www.furaffinity.net/view/27334962/) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
+###### Art by [Rindeadsong](https://www.furaffinity.net/view/27334962/) - {% include click.html %} the image for full version
 {% endcapture %}
 {% capture rightbox %}
 ## General Info
@@ -35,10 +40,8 @@ Resin is a squeaky, shiny living-rubber toy dragon. He usually dons black latex 
 - Squeaks a bit as he moves
 - Can be very [dommy](https://www.furaffinity.net/view/33994059/) or very [subby](https://www.furaffinity.net/view/19488527/) depending on the mood or individual
 
-<span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span></span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #CD822A">#CD822A</span></span>
-</span>
+{% include colorbox.html %}
+
 - **Don't colourpick from ref!** Use your natural black latex tone.
     - It's a **good** thing if latex gear is about the same tone and texture as him!
 

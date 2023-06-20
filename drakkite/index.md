@@ -3,7 +3,7 @@ title: Drakkite
 description: "Stone gargoyle that comes to life in the darkness."
 favicon: "/assets/img/drakkite-favicon.png"
 socialmedia:
-  image: https://hazmatdr.one/assets/img/drakkite-sitepreview.png
+  image: "/assets/img/drakkite-sitepreview.png"
   type: summary_large_image
 social:
   twitter: Tekxach
@@ -12,18 +12,19 @@ social:
 flexbox:
   leftflex: 2
   rightflex: 3
+colors:
+  - color: "#7C8086"
+    darktext: true
+  - color: "#C7FFFF"
+    darktext: true
 ---
 
 [![Refsheet Image](/assets/img/drakkite-1200px.png)](/assets/img/drakkite.png)
-###### Art by [GlaucaBlitz](https://www.furaffinity.net/user/GlaucaBlitz) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
+###### Art by [GlaucaBlitz](https://www.furaffinity.net/user/GlaucaBlitz) - {% include click.html %} the image for full version
 
-	
 {% capture leftbox %}
 ## Colours
-<span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #7C8086">#7C8086</span></span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #C7FFFF">#C7FFFF</span></span>
-</span>
+{% include colorbox.html %}
 
 ## General Info
 - **Name:** Drakkite
@@ -32,7 +33,6 @@ flexbox:
 - **Orientation:** Gay/grey ace
 - **Height:** 180cm *(6ft)*
 - **Weight:** 250kg *(551lbs)*
-
 
 Animated by dark magic, Drakkite is a stone gargoyle that comes to life in the darkness. He is vicious, agile, flying hunter with a body resistant to most attacks.
 During the day, he may perch on the rooftops, wear a cloak to cover himself from the light, or seek refuge somewhere indoors.

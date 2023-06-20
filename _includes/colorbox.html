@@ -1,0 +1,10 @@
+<span style="display: flex; flex-wrap: wrap">
+{% for color in page.colors -%}
+	<span style="padding: 0.5em">
+		<span class="colorbox {% if color.darktext -%} darktext {%- else -%} lighttext {%- endif %}"
+		style="background-color: {{ color.color }}">
+		{%- if color.display -%} {{ color.display }} {% else %} {{ color.color }} {%- endif -%}
+		</span> {{ color.note }}
+	</span>
+{%- endfor %}
+</span>

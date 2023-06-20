@@ -5,12 +5,41 @@ social:
   furaffinity: "gallery/hazmatdrone/folder/881793/T615-J"
   telegram: T615J
 socialmedia:
-  image: https://hazmatdr.one/assets/img/hazmatdrone-sitepreview.png
+  image: "/assets/img/hazmatdrone-sitepreview.png"
   type: summary_large_image
+colors:
+  - note: "Primary"
+    color: "black"
+    darktext: false
+    display: "Black Latex"
+  - note: "Secondary"
+    color: "#E4A943"
+    darktext: true
+  - note: "Gear/Visor"
+    color: "#222222"
+    darktext: false
+  - note: "Gear secondary"
+    color: "#595959"
+    darktext: false
+  - note: "Jacket"
+    color: "#313139"
+    darktext: false
+  - note: "Hood"
+    color: "#47474F"
+    darktext: false
+  - note: "Pants"
+    color: "#2A2A2A"
+    darktext: false
+  - note: "Accent"
+    color: "#43CBE5"
+    darktext: true
+  - note: "Accent 2"
+    color: "#E15554"
+    darktext: true
 ---
 
 [![Refsheet Image](/assets/img/hazmatdrone-refsheet-1200.png)](/assets/img/hazmatdrone-refsheet-full.png)
-###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - <span class="desktop-only">click</span><span class="raw-only">/</span><span class="mobile-only">tap</span> the image for full version
+###### Art by [Hacony](https://www.furaffinity.net/user/qundium) - {% include click.html %} the image for full version
 
 {% capture leftbox %}
 ## General Info
@@ -39,17 +68,8 @@ socialmedia:
 {% capture rightbox %}
 
 ## Colours
-<span style="display: flex; flex-wrap: wrap">
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: black">Black Latex</span> Primary</span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #E4A943">#E4A943</span> Secondary</span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #222222">#222222</span> Gear/Visor</span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #595959">#595959</span> Gear secondary</span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #313139">#313139</span> Jacket</span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #47474F">#47474F</span> Hood</span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #2A2A2A">#2A2A2A</span> Pants</span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #43CBE5">#43CBE5</span> Accent</span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #E15554">#E15554</span> Accent 2</span>
-</span>
+
+{% include colorbox.html %}
 
 ## Artist Notes
 - **Digitigrade**, should have a [buff physique](/assets/img/physique.png/)

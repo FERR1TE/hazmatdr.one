@@ -1,8 +1,12 @@
 {% if page.nav %}
 	<h6>
 	{% for item in page.nav %}
-		<span>{% if item.icon %}<img src={{ item.icon }} class="navicon"></img>{% endif %}
-		{% if item.url == page.url %}<b>{{item.title}}</b>{% else %}<a href = "{{ item.url }}">{{ item.title }}</a>{% endif %}</span>
+		<span>
+			{%- if item.icon -%}
+				<img src={{ item.icon }} class="navicon"></img>
+			{%- endif %}
+			{% if item.url == page.url %}<b>{{item.title}}</b>{% else %}<a href = "{{ item.url }}">{{ item.title }}</a>{% endif -%}
+		</span>
 		{% if item != page.nav.last %} | {% endif %}
 	{% endfor %}
 	</h6>
