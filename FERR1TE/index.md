@@ -28,23 +28,27 @@ colors:
 
 {% endcapture %}
 {% capture rightbox %}
+
 ## General Info
-- **Name:** FERR1TE
+- **Name:** FERR-1-TE *(AKA "Ferrite")*
 - **Species:** Steel construct
-- **Gender:** Male
+- **Gender:** Male *(He/him/it)*
 - **Orientation:** Gay/grey ace
 - **Height:** 2.1m *(7ft)*
 - **Weight:** 1200 kg *(2650 lbs)*
 
-TODO Short description
+---
 
-## Notes
-- TODO
+Created as an experimental heavy-duty defense system, FERR1TE's solid steel composition provided excellent endurance. 
+
+Shunned by much of society for what he is, he wanders about looking for those who will accept and care for him.
+
+- He contains a fairly minimal amount of robotics, as his living-metal body is what allows him to move.
+- His maw is a furnace capable of melting steel, and as such loves to snack on things made of iron and steel.
+- Despite appearances, he tends to act cute and cuddly.
+
 
 {% include colorbox.html %}
-
-- Back of fur is actually a silvery colour
-- Teeth are **steel**, tongue is **brass**
 
 {% endcapture %}
 
