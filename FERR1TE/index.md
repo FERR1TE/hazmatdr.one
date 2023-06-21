@@ -9,22 +9,21 @@ flexbox:
   leftflex: 2
   rightflex: 3
 colors:
-  - display: Grey
+  - display: Steel
     color: "#6D6D6D"
-    note: Steel
   - color: "#D2B86E"
     darktext: true
-    note: Brass
   - color: "#EC3030"
-    note: Fur
   - color: "#5DC0FC"
-    note: Eyes
     darktext: true
 ---
 
 {% capture leftbox %}
 
 [![Refsheet Image](/assets/img/FERR1TE-render3.png)](/assets/img/FERR1TE-render3.png)
+
+
+{% include colorbox.html %}
 
 {% endcapture %}
 {% capture rightbox %}
@@ -39,16 +38,14 @@ colors:
 
 ---
 
-Created as an experimental heavy-duty defense system, FERR1TE's solid steel composition provided excellent endurance. 
+Created as an experimental heavy-duty defense system, FERR1TE's solid steel composition provides excellent endurance, allowing him to act as a walking bodyshield.
 
-Shunned by much of society for what he is, he wanders about looking for those who will accept and care for him.
+Shunned by much of society for what he was created for, he wanders about looking for those who will accept him for who he is.
 
+### Notes
 - He contains a fairly minimal amount of robotics, as his living-metal body is what allows him to move.
-- His maw is a furnace capable of melting steel, and as such loves to snack on things made of iron and steel.
+- His maw is a furnace capable of melting steel to regenerate his plating, and as such he loves to snack on things made of iron and steel.
 - Despite appearances, he tends to act cute and cuddly.
-
-
-{% include colorbox.html %}
 
 {% endcapture %}
 
