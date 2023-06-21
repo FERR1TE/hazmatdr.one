@@ -37,7 +37,7 @@ colors:
 ## General Info
 - **Name:** Tekxach [/ˈtɛʼzɑk/](http://ipa-reader.xyz/?text=%CB%88t%C9%9B%CA%BCz%C9%91k&voice=Brian)
 - **Species:** Basilisk
-- **Gender:** Male
+- **Gender:** Male *(He/him)*
 - **Orientation:** Gay/grey ace
 - **Height:** 175cm *(5'9")*
 - **Occupation:** Bounty hunter

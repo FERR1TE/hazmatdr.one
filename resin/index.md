@@ -27,7 +27,7 @@ colors:
 ## General Info
 - **Name:** Resin Drake
 - **Species:** Living rubber dragon
-- **Gender:** Male
+- **Gender:** Male *(He/him)*
 - **Orientation:** Gay/grey ace
 - **Height:** 170cm *(5'7")*
 
