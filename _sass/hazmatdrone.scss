@@ -246,12 +246,19 @@ footer > .bubble-outer, footer > .bubble-container {
 	display: flex;
 }
 
-// Like a hr but it can become vertical when necessary
-.flex-rule {
-	border-width: 0 1px 0 0;
+.flex-rule, hr {
 	border-color: $muted_element;
 	border-style: solid;
 	margin: 2em 0;
+}
+
+// Like a hr but it can become vertical when necessary
+.flex-rule {
+	border-width: 0 1px 0 0;
+}
+
+hr {
+	border-width: 1px 0 0 0;
 }
 
 // Hide certain elements on mobile and show them on desktop

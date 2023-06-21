@@ -23,8 +23,6 @@ colors:
 ###### Art by [GlaucaBlitz](https://www.furaffinity.net/user/GlaucaBlitz) - {% include click.html %} the image for full version
 
 {% capture leftbox %}
-## Colours
-{% include colorbox.html %}
 
 ## General Info
 - **Name:** Drakkite
@@ -38,6 +36,10 @@ Animated by dark magic, Drakkite is a stone gargoyle that comes to life in the d
 During the day, he may perch on the rooftops, wear a cloak to cover himself from the light, or seek refuge somewhere indoors.
 
 Eyes cease to glow when inanimate.
+
+---
+
+{% include colorbox.html %}
 
 {% endcapture %}
 {% capture rightbox %}

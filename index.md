@@ -50,7 +50,7 @@ colors:
 - **Orientation:** Gay/grey ace
 - **Height:** 180cm *(6ft)*
 
-
+---
 
 - Contractable, affordable, disposable worker
 	- Suited for working in environments with **hazardous chemicals** or **high voltages** present

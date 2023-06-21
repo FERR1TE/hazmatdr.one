@@ -33,7 +33,8 @@ colors:
 
 Resin is a squeaky, shiny living-rubber toy dragon. He usually dons black latex shorts which are hard to discern from his black latex body.
 
-## Notes
+---
+
 - Always wears a collar
 - Is usually fairly soft and squishy
 - Has a relatively [low melting point](https://www.furaffinity.net/view/26707388/)
