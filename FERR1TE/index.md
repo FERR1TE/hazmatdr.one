@@ -14,31 +14,29 @@ colors:
   - color: "#D2B86E"
     darktext: true
   - color: "#EC3030"
+  - color: "#002FAC"
   - color: "#5DC0FC"
     darktext: true
 ---
 
+[![Refsheet Image](/assets/img/iron_boi_reference.png)](/assets/img/iron_boi_reference.png)
+
 {% capture leftbox %}
 
-[![Refsheet Image](/assets/img/FERR1TE-render3.png)](/assets/img/FERR1TE-render3.png)
-
-
-{% include colorbox.html %}
-
-{% endcapture %}
-{% capture rightbox %}
-
 ## General Info
-- **Name:** FERR-1-TE *(AKA "Ferrite")*
+- **Name:** FERR1TE *(AKA "Ferrite")*
 - **Species:** Steel construct
 - **Gender:** Male *(He/him/it)*
 - **Orientation:** Gay/grey ace
 - **Height:** 2.1m *(7ft)*
 - **Weight:** 1200 kg *(2650 lbs)*
 
----
+{% include colorbox.html %}
 
-Created as an experimental heavy-duty defense system, FERR1TE's solid steel composition provides excellent endurance, allowing him to act as a walking bodyshield.
+{% endcapture %}
+{% capture rightbox %}
+
+Created as an experimental heavy-duty defense system, FERR1TE's solid steel composition provides excellent endurance, allowing him to act both offensively and defensively.
 
 Shunned by much of society for what he was created for, he wanders about looking for those who will accept him for who he is.
 
