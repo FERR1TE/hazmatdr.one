@@ -2,9 +2,6 @@
 title: FERR1TE
 description: "Living-steel sentinel."
 favicon: "/assets/img/ferr1te-favicon.png"
-socialmedia:
-  image: "/assets/img/resin-sitepreview.png"
-  type: summary_large_image
 flexbox:
   leftflex: 2
   rightflex: 3
