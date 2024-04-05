@@ -26,7 +26,7 @@ colors:
 - **Gender:** Male *(He/him/it)*
 - **Orientation:** Gay/grey ace
 - **Height:** 2.1m *(7ft)*
-- **Weight:** 1200 kg *(2650 lbs)*
+- **Weight:** ~2400 kg *(5290 lbs)*
 
 {% include colorbox.html %}
 
