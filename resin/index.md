@@ -5,7 +5,6 @@ favicon: "/assets/img/resin-favicon.png"
 social:
   twitter: ResinDrake
   furaffinity: "gallery/rubberbutt/folder/167296/Resin"
-  telegram: ResinDrake
 socialmedia:
   image: "https://hazmatdr.one/assets/img/resin-sitepreview.png"
   type: summary_large_image
